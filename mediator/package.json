@@ -1,0 +1,19 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "watch": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/events": "^3.0.3",
+    "events": "^3.3.0",
+    "node": "^23.5.0",
+    "nodemon": "^2.0.20"
+  }
+}
